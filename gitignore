@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+
+# data (downloaded separately — see README)
+data/
+*.npy
+*.csv
+!CITATION.cff
+
+# notebook outputs
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# generated figures and exports
+*.png
+*.pdf
+*.html
+!hdbscan_tree_explorer.html
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.python-version
+
+# editors
+.vscode/
+.idea/
+*.swp
