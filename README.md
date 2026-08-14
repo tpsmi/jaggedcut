@@ -109,15 +109,6 @@ cells for a smaller file.
 
 ---
 
-## Companion repository
-
-The same collection is analysed at a different resolution in a companion
-repository cited in the article, which holds the Europeana download, the
-embedding extraction, and a 10-dimensional reduction; this one starts from the
-embeddings and reads the hierarchy.
-
----
-
 ## A note on AI-assisted development
 
 A significant portion of the code in this notebook was developed with the
